@@ -29,75 +29,49 @@ Analogy: Like asking a trained chef to cook a new dish from a recipe — they ap
 
 Transformers
 Transformers are the core architecture behind most LLMs. Introduced in 2017, they revolutionized natural language processing. Transformers use a mechanism called attention, which helps the model focus on important words in a sentence and understand relationships between them.
-
 Example: In the sentence "The girl who won the prize is my sister," the model understands that "who won the prize" refers to "the girl" using attention.
 
 Training LLMs: Behind the Scenes
 LLMs are trained using massive datasets that include books, websites, articles, and more. The training involves:
-
 Feeding large amounts of text to the model.
-
 Adjusting billions of parameters to minimize errors.
-
 Using high-powered GPUs and large-scale computing resources.
-
 The entire process can take weeks or months and requires significant computing power and energy.
 
 Applications of LLMs
 Content creation: Writing articles, blogs, scripts.
-
 Customer support: Chatbots and virtual assistants.
-
 Code generation: Helping programmers write and debug code.
-
 Education: Assisting students with explanations and summaries.
-
 Translation: Converting text between languages.
-
 Creative work: Generating stories, poems, and even art prompts.
 
 Limitations of LLMs
 May produce incorrect or biased information.
-
 Cannot truly understand context like a human.
-
 Require large computational resources.
-
 Depend heavily on the quality of training data.
-
 Sometimes fail at tasks that need common sense reasoning.
 
 Ethical Concerns
 Bias: Models can reflect biases present in training data.
-
 Misinformation: Can unintentionally generate false or misleading information.
-
 Privacy: Risk of reproducing sensitive data from training sets.
-
 Job displacement: Automation may affect certain jobs.
 
 Future of LLMs
 More accurate and context-aware models.
-
 Better safety and bias reduction techniques.
-
 Improved energy efficiency and faster inference times.
-
 Wider adoption in education, healthcare, and creative industries.
-
 Development of specialized models fine-tuned for specific professional domains.
 
 Key Takeaways
 Understood the concept of LLMs and their working.
-
 Learned important key terms with helpful analogies.
-
 Explored the role of transformers and attention mechanisms.
-
 Got insights into training processes behind LLMs.
-
 Discussed practical applications, limitations, and ethical issues.
-
 Understood possible future advancements and potential impact on society.
 
 By: Divya
